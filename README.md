@@ -1,19 +1,19 @@
-# @babel/compat-data
+# @babel/code-frame
 
-> The compat-data to determine required Babel plugins
+> Generate errors that contain a code frame that point to source locations.
 
-See our website [@babel/compat-data](https://babeljs.io/docs/babel-compat-data) for more information.
+See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/compat-data
+npm install --save-dev @babel/code-frame
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/compat-data
+yarn add @babel/code-frame --dev
 ```
